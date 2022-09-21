@@ -17,7 +17,7 @@ Trough all this new data/samples added many new distinct cancer types could be b
 in SNP array based experiments also allel specific information and loss of heterozygotosity was added an some information about germline variant landscapes 
 
 cancer samples have been annotated with a special NCIt term
-many distinct cancer types were found in diffrent projectsaccording to National Cancer Theasaurus NCIt
+many distinct cancer types were found in diffrent projects according to National Cancer Theasaurus NCIt
 bringing this data together many new nodes where idenified 
 
 breast carcinomes show a consistent CNV profile similar to T-cell non-Hodgines lymphoma, myelodysplastic syndrome and other malignant 
@@ -26,6 +26,8 @@ LOH complements the CNV profile with information of allelic loss
 a few rominent patterns can then be highligthed 
 
 ICD-O topography system provides organ and substructure specific mapping of a tumor entity 
+
+UBERON is a cross-species anatomical structural ontology system closely aligned with developmental processes
 
 > API = Application Programming Interface
 
