@@ -47,8 +47,9 @@ Searching for a specific cancer type:
 
 ## Conclusion 
 
-provides a collection of oncogenomic data with a focus on individual genome-wide CNA profiles and topic relevent metadata from
-  many diffrent studies 
+Progenetix is a databank which provides a collection of oncogenomic data with a focus on individual genome-wide CNA profiles and topic relevent metadata from many diffrent studies 
+
+Through aggregation of data from many individual research studies all information can be collected in one place and can be easely accesed by everyone 
   
 
 
