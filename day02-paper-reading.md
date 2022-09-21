@@ -16,18 +16,17 @@ CNAs represent a type of nearly ubiquitous and frequently extensive structural g
 Over last few years much more data of cancer genomes were collected 
 
 
-- most imprtant resources/projects: GEO, ArrayExpress, cBioPortal and TCGA 
+- most important resources/projects: GEO, ArrayExpress, cBioPortal and TCGA 
 
-Trough all this new data/samples added many new distinct cancer types could be better accessed
+Trough all this new data/samples ,from diffrent sources, added many new distinct cancer types could be better accessed
 
 In SNP array based experiments also allel specific information and loss of heterozygotosity was added an some information about germline variant landscapes 
 
-Cancer samples have been annotated with a special NCIt term
 
 Many distinct cancer types were found in diffrent projects according to National Cancer Theasaurus NCIt
 
+NCI Thesaurus (NCIt)is a reference terminology that include the cancer domain, cancer related diseases, findings and abnormalities
 
-Breast carcinomes show a consistent CNV profile similar to T-cell non-Hodgines lymphoma, myelodysplastic syndrome and other malignant epethilial tumours 
 
 - LOH complements the CNV profile with information of allelic loss 
 - ICD-O topography system provides organ and substructure specific mapping of a tumor entity 
@@ -39,6 +38,15 @@ For each sample geographic point coordination is inclueded and city coordination
 
 You can filter for cancer type, tissue location, morphology, cell line or geo-graphic location
 costumized visualization is also possible to select chromosomal regions or a subset of studies
+
+
+
+
+With the help of Progenetix you can detect, that Breast carcinomes show a consistent CNV profile similar to T-cell non-Hodgines lymphoma, myelodysplastic syndrome and other malignant epethilial tumours 
+
+
+
+
 
 Example:
 Searching for a specific cancer type:
