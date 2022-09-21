@@ -7,6 +7,8 @@ f = fyle.readlines()[1007:-1]
 
 header = [header]
 
+
+# idear to solve it 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -31,8 +33,11 @@ for line in f:
     x = counter, line
     new.append(x)
 
-#%%
-import pada as pd
+    
+    
+#%% solution pesented in the lecture 
+
+import panda as pd
 
 df = pd.DataFrame({})
 with open("data.gpxseg", newline = "") as segile:
