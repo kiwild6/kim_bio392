@@ -4,37 +4,38 @@
 Progentix project curates individual cancer CNA profiles and metadata from diffrent cancer studies 
 > CNA = copy number alterations 
 
+> CNV = copy number variation 
+
+Copy number aberrations are present in most cancer types and impact tumor development
+
+CNAs represent a type of nearly ubiquitous and frequently extensive structural genome variations
+
 Over last few years much more data of cancer genomes were collected 
 
-- copy number aberrations are present i most cancer types and impact tumor development 
-- Progenetix is a public cancer genome data resource important for comparison
-- It also contains many information from external resurces and diffrent projects and studies 
+Progenetix is a public cancer genome data resource important for comparison and it also contains many information from external resurces and diffrent projects and studies 
 
-most imprtant resources/projects: GEO, ArrayExpress, cBioPortal and TCGA 
+- most imprtant resources/projects: GEO, ArrayExpress, cBioPortal and TCGA 
 
 Trough all this new data/samples added many new distinct cancer types could be better accessed
 
-in SNP array based experiments also allel specific information and loss of heterozygotosity was added an some information about germline variant landscapes 
+In SNP array based experiments also allel specific information and loss of heterozygotosity was added an some information about germline variant landscapes 
 
-cancer samples have been annotated with a special NCIt term
-many distinct cancer types were found in diffrent projects according to National Cancer Theasaurus NCIt
-bringing this data together many new nodes where idenified 
+Cancer samples have been annotated with a special NCIt term
 
-breast carcinomes show a consistent CNV profile similar to T-cell non-Hodgines lymphoma, myelodysplastic syndrome and other malignant 
-  epethilial tumours 
-LOH complements the CNV profile with information of allelic loss 
-a few rominent patterns can then be highligthed 
+Many distinct cancer types were found in diffrent projects according to National Cancer Theasaurus NCIt
 
-ICD-O topography system provides organ and substructure specific mapping of a tumor entity 
 
-UBERON is a cross-species anatomical structural ontology system closely aligned with developmental processes
+Breast carcinomes show a consistent CNV profile similar to T-cell non-Hodgines lymphoma, myelodysplastic syndrome and other malignant epethilial tumours 
+
+- LOH complements the CNV profile with information of allelic loss 
+- ICD-O topography system provides organ and substructure specific mapping of a tumor entity 
+- UBERON is a cross-species anatomical structural ontology system closely aligned with developmental processes
 
 > API = Application Programming Interface
 
-for ech sample geographic point coordination is included 
-city coordination was created by using GeoNames
+For each sample geographic point coordination is inclueded and city coordination was created by using GeoNames
 
-you can filter for cancer type, tissue location, morphology, cell line or geo-graphic location
+You can filter for cancer type, tissue location, morphology, cell line or geo-graphic location
 costumized visualization is also possible to select chromosomal regions or a subset of studies
 
 Example:
