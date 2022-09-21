@@ -1,7 +1,10 @@
 
 # Paper: Progenetix oncoenomic resources in 2021
 
-Progentix project curates individual cancer CNA profiles and metadata from diffrent cancer studies 
+
+Progenetix is a public cancer genome data resource important for comparison and it also contains many information from external resources and diffrent projects and studies 
+
+The Progentix project curates individual cancer CNA profiles and metadata from diffrent cancer studies 
 > CNA = copy number alterations 
 
 > CNV = copy number variation 
@@ -12,7 +15,6 @@ CNAs represent a type of nearly ubiquitous and frequently extensive structural g
 
 Over last few years much more data of cancer genomes were collected 
 
-Progenetix is a public cancer genome data resource important for comparison and it also contains many information from external resurces and diffrent projects and studies 
 
 - most imprtant resources/projects: GEO, ArrayExpress, cBioPortal and TCGA 
 
